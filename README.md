@@ -42,7 +42,7 @@ A smart tab tracking and management tool for Chrome users to improve browser pro
 - Authenticated user sync with backend (JWT-based)  
 - Lightweight and user-friendly UI  
 
-🧩 [Extension Page](#) &nbsp; | &nbsp; 📂 [Repository](https://github.com/lakshitrajput/Tabster)
+ 📂 [Repository](https://github.com/lakshitrajput/Tabster)
 
 ---
 
